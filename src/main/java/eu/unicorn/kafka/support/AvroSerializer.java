@@ -3,9 +3,7 @@ package eu.unicorn.kafka.support;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.util.Map;
-
-import javax.xml.bind.DatatypeConverter;
-
+import lombok.extern.slf4j.Slf4j;
 import org.apache.avro.generic.GenericDatumWriter;
 import org.apache.avro.generic.GenericRecord;
 import org.apache.avro.io.BinaryEncoder;
@@ -14,8 +12,6 @@ import org.apache.avro.io.EncoderFactory;
 import org.apache.avro.specific.SpecificRecordBase;
 import org.apache.kafka.common.errors.SerializationException;
 import org.apache.kafka.common.serialization.Serializer;
-
-import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 public class AvroSerializer<T extends SpecificRecordBase> implements Serializer<T> {
@@ -31,7 +27,7 @@ public class AvroSerializer<T extends SpecificRecordBase> implements Serializer<
 			byte[] result = null;
 
 			if (data != null) {
-				log.debug("data='{}'", data);
+				//log.debug("data='{}'", data);
 
 				try (ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream()) {
 					BinaryEncoder binaryEncoder = EncoderFactory.get().binaryEncoder(byteArrayOutputStream, null);
@@ -43,7 +39,7 @@ public class AvroSerializer<T extends SpecificRecordBase> implements Serializer<
 	
 					result = byteArrayOutputStream.toByteArray();
 				}
-				log.debug("serialized data='{}'", DatatypeConverter.printHexBinary(result));
+				//log.debug("serialized data='{}'", DatatypeConverter.printHexBinary(result));
 			}
 			return result;
 		} catch (IOException ex) {

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CapacityAuctionSpecificationDocument  DtdRelease="0" DtdVersion="5" xsi:noNamespaceSchemaLocation="http://auctions.seecao.com/xsd/auction-specification-document.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <DocumentIdentification v="A51_CASD-ALME-DH-20160602-05552"/>
+ <DocumentVersion v="1"/>
+ <DocumentType v="A51"/>
+ <ProcessType v="A07"/>
+ <SenderIdentification v="35X-SEECAO-ME--Q" codingScheme="A01"/>
+ <SenderRole v="A07"/>
+ <ReceiverIdentification v="10XAL-KESH-----J" codingScheme="A01"/>
+ <ReceiverRole v="A04"/>
+ <CreationDateTime v="2016-04-03T07:57:00Z"/>
+ <DocumentTimeInterval v="2016-06-01T22:00Z/2016-06-02T22:00Z"/>
+ <Domain v="10YDOM-1001A054Q" codingScheme="A01"/>
+ <AuctionTimeSeries>
+  <AuctionIdentification v="ALME-DH-20160602-05552"/>
+  <BusinessType v="A31"/>
+  <AuctionType v="A02"/>
+  <BiddingPeriod v="2016-05-30T08:00Z/2016-05-30T10:00Z"/>
+  <ClassificationCategory v="A04"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <DeliveryPeriod v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+  <AllocationMode v="A01"/>
+  <PaymentTerms v="A02"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <MeasureUnitPrice v="MWH"/>
+  <Currency v="EUR"/>
+  <NotificationDateTime v="2016-05-30T06:32:00Z"/>
+  <ContestationEndDateTime v="2016-05-30T09:00:00Z"/>
+  <PublicationDateTime v="2016-05-30T09:00:00Z"/>
+  <CurveType v="A01"/>
+  <Period>
+   <TimeInterval v="2016-06-01T22:00Z/2016-06-02T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="100"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="60"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="60"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="100"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="100"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="100"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="140"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="140"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="135"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="135"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="135"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="135"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="135"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="125"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="125"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="125"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="125"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="175"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="175"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="175"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="175"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="175"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="120"/>
+   </Interval>
+  </Period>
+ </AuctionTimeSeries>
+</CapacityAuctionSpecificationDocument>

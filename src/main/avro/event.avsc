@@ -1,0 +1,9 @@
+{"namespace": "eu.unicorn.kafka.avro",
+  "type": "record",
+  "name": "Event",
+  "fields": [
+    {"name": "type", "type": "string"},
+    {"name": "receivedFile",  "type": "string"},
+    {"name": "topicOffset", "type": "long"}
+  ]
+}

@@ -1,0 +1,2863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TotalAllocationResultDocument xmlns:ecc="etso-core-cmpts.xsd" DtdVersion="5" DtdRelease="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://auctions.seecao.com/xsd/total-allocation-result-document.xsd">
+ <DocumentIdentification v="A25_TARD_ALME-DH-20160303-02884"/>
+ <DocumentVersion v="1"/>
+ <DocumentType v="A25"/>
+ <SenderIdentification v="35X-SEECAO-ME--Q" codingScheme="A01"/>
+ <SenderRole v="A07"/>
+ <ReceiverIdentification v="10XAL-KESH-----J" codingScheme="A01"/>
+ <ReceiverRole v="A04"/>
+ <CreationDateTime v="2016-03-02T09:02:00Z"/>
+ <BidTimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+ <Domain v="10YDOM-1001A054Q" codingScheme="A01"/>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11383535"/>
+  <BidDocumentIdentification v="A24_11XIGET--------D_02884"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="11383535"/>
+  <BiddingParty v="11XIGET--------D" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-11XIGET--------D"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.75"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11383536"/>
+  <BidDocumentIdentification v="A24_11XIGET--------D_02884"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="11383536"/>
+  <BiddingParty v="11XIGET--------D" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-11XIGET--------D"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.32"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11383537"/>
+  <BidDocumentIdentification v="A24_11XIGET--------D_02884"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="11383537"/>
+  <BiddingParty v="11XIGET--------D" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-11XIGET--------D"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11383538"/>
+  <BidDocumentIdentification v="A24_11XIGET--------D_02884"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="11383538"/>
+  <BiddingParty v="11XIGET--------D" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-11XIGET--------D"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11383539"/>
+  <BidDocumentIdentification v="A24_11XIGET--------D_02884"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="11383539"/>
+  <BiddingParty v="11XIGET--------D" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-11XIGET--------D"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="40"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="40"/>
+    <BidPriceAmount v="0.12"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11383620"/>
+  <BidDocumentIdentification v="11XDANSKECOM---P03/03/2016AL-ME"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="1"/>
+  <BiddingParty v="11XDANSKECOM---P" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-11XDANSKECOM---P"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="30"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="2.26"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11383621"/>
+  <BidDocumentIdentification v="11XDANSKECOM---P03/03/2016AL-ME"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="2"/>
+  <BiddingParty v="11XDANSKECOM---P" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-11XDANSKECOM---P"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="21"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="21"/>
+    <BidPriceAmount v="0.68"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11383622"/>
+  <BidDocumentIdentification v="11XDANSKECOM---P03/03/2016AL-ME"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="3"/>
+  <BiddingParty v="11XDANSKECOM---P" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-11XDANSKECOM---P"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.11"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11383623"/>
+  <BidDocumentIdentification v="11XDANSKECOM---P03/03/2016AL-ME"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="4"/>
+  <BiddingParty v="11XDANSKECOM---P" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-11XDANSKECOM---P"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.07"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11383624"/>
+  <BidDocumentIdentification v="11XDANSKECOM---P03/03/2016AL-ME"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="5"/>
+  <BiddingParty v="11XDANSKECOM---P" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-11XDANSKECOM---P"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="7"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="7"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="7"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="7"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="7"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="7"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="12"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="12"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="12"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="12"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="12"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="12"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="12"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="12"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="12"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="12"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="7"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="25"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="25"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="25"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="25"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="7"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="7"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="7"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.04"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11383625"/>
+  <BidDocumentIdentification v="11XDANSKECOM---P03/03/2016AL-ME"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="6"/>
+  <BiddingParty v="11XDANSKECOM---P" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-11XDANSKECOM---P"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="23"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="23"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="23"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="23"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="23"/>
+    <BidPriceAmount v="0.02"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11383626"/>
+  <BidDocumentIdentification v="11XDANSKECOM---P03/03/2016AL-ME"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="7"/>
+  <BiddingParty v="11XDANSKECOM---P" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-11XDANSKECOM---P"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="25"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="29"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="29"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="29"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="29"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="30"/>
+    <BidPriceAmount v="0.01"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11384134"/>
+  <BidDocumentIdentification v="ALME-DH-20160303-02884"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="1"/>
+  <BiddingParty v="12XEFT-SWITZERLR" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-12XEFT-SWITZERLR"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="49"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="49"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="49"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="49"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="49"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="49"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="49"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="49"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="49"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="49"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="49"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="49"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="44"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="44"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="44"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="44"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="44"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="44"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="44"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="44"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="44"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="44"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="44"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="44"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="44"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="44"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="44"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="44"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="44"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="44"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="44"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="44"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="49"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="49"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="14"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="14"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="14"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="14"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="14"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="14"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="14"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="14"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="49"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="49"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="49"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="49"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="49"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="49"/>
+    <BidPriceAmount v="1.15"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11384135"/>
+  <BidDocumentIdentification v="ALME-DH-20160303-02884"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="2"/>
+  <BiddingParty v="12XEFT-SWITZERLR" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-12XEFT-SWITZERLR"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.05"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+ <AllocationTimeSeries>
+  <TimeSeriesIdentification v="11384136"/>
+  <BidDocumentIdentification v="ALME-DH-20160303-02884"/>
+  <BidDocumentVersion v="1"/>
+  <BidIdentification v="3"/>
+  <BiddingParty v="12XEFT-SWITZERLR" codingScheme="A01"/>
+  <AuctionIdentification v="ALME-DH-20160304-01920"/>
+  <BusinessType v="A34"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <ContractType v="A01"/>
+  <ContractIdentification v="ALME20160303D02884-12XEFT-SWITZERLR"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Currency v="EUR"/>
+  <MeasureUnitPrice v="MWH"/>
+  <CurveType v="A01"/>
+  <ClassificationCategory v="A04"/>
+  <Period>
+   <TimeInterval v="2016-03-03T23:00Z/2016-03-04T23:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="10"/>
+    <PriceAmount v="0.01"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="0"/>
+    <PriceAmount v="0.04"/>
+    <BidQty v="10"/>
+    <BidPriceAmount v="0.03"/>
+   </Interval>
+  </Period>
+ </AllocationTimeSeries>
+</TotalAllocationResultDocument>

@@ -2,9 +2,7 @@ package eu.unicorn.kafka.support;
 
 import java.util.Arrays;
 import java.util.Map;
-
-import javax.xml.bind.DatatypeConverter;
-
+import lombok.extern.slf4j.Slf4j;
 import org.apache.avro.generic.GenericRecord;
 import org.apache.avro.io.DatumReader;
 import org.apache.avro.io.Decoder;
@@ -13,8 +11,6 @@ import org.apache.avro.specific.SpecificDatumReader;
 import org.apache.avro.specific.SpecificRecordBase;
 import org.apache.kafka.common.errors.SerializationException;
 import org.apache.kafka.common.serialization.Deserializer;
-
-import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 public class AvroDeserializer<T extends SpecificRecordBase> implements Deserializer<T> {
@@ -42,14 +38,14 @@ public class AvroDeserializer<T extends SpecificRecordBase> implements Deseriali
 			T result = null;
 
 			if (data != null) {
-				log.debug("data='{}'", DatatypeConverter.printHexBinary(data));
+				//log.debug("data='{}'", DatatypeConverter.printHexBinary(data));
 
 				DatumReader<GenericRecord> datumReader = new SpecificDatumReader<>(
 						this.targetType.newInstance().getSchema());
 				Decoder decoder = DecoderFactory.get().binaryDecoder(data, null);
 
 				result = (T) datumReader.read(null, decoder);
-				log.debug("deserialized data='{}'", result);
+				//log.debug("deserialized data='{}'", result);
 			}
 			return result;
 		} catch (Exception ex) {

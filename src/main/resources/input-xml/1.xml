@@ -1,0 +1,1774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RightsDocument xmlns:ecc="etso-core-cmpts.xsd" DtdVersion="4" DtdRelease="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://auctions.seecao.com/xsd/rights-document.xsd">
+ <DocumentIdentification v="A23_RD_LT_ALME_01062016"/>
+ <DocumentVersion v="1"/>
+ <DocumentType v="A23"/>
+ <SenderIdentification v="35X-SEECAO-ME--Q" codingScheme="A01"/>
+ <SenderRole v="A07"/>
+ <ReceiverIdentification v="10XAL-KESH-----J" codingScheme="A01"/>
+ <ReceiverRole v="A31"/>
+ <CreationDateTime v="2016-02-28T09:20:00Z"/>
+ <ApplicableTimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+ <Domain v="10YDOM-1001A054Q" codingScheme="A01"/>
+ <DocumentStatus v="A02"/>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133432"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <RightsHolder v="23X--140426-AY-W" codingScheme="A01"/>
+  <ContractIdentification v="ALME20160601M05550-23X--140426-AY-W"/>
+  <ContractType v="A03"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="102"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="102"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133578"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <InArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <RightsHolder v="23X--140426-AY-W" codingScheme="A01"/>
+  <ContractIdentification v="MEAL20160601M05551-23X--140426-AY-W"/>
+  <ContractType v="A03"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="30"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133431"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <RightsHolder v="34XEGL-DOO-----6" codingScheme="A01"/>
+  <ContractIdentification v="ALME20160601M05550-34XEGL-DOO-----6"/>
+  <ContractType v="A03"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="180"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="180"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133571"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <InArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <RightsHolder v="34XEGL-DOO-----6" codingScheme="A01"/>
+  <ContractIdentification v="MEAL20160601M05551-34XEGL-DOO-----6"/>
+  <ContractType v="A03"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="110"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="110"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133438"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <RightsHolder v="12XEFT-SWITZERLR" codingScheme="A01"/>
+  <ContractIdentification v="ALME20160601M05550-12XEFT-SWITZERLR"/>
+  <ContractType v="A03"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="30"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133582"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <InArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <RightsHolder v="12XEFT-SWITZERLR" codingScheme="A01"/>
+  <ContractIdentification v="MEAL20160601M05551-12XEFT-SWITZERLR"/>
+  <ContractType v="A03"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="130"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="130"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133429"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <RightsHolder v="22XGSA---------N" codingScheme="A01"/>
+  <ContractIdentification v="ALME20160601M05550-22XGSA---------N"/>
+  <ContractType v="A03"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="200"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="200"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133572"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <InArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <RightsHolder v="22XGSA---------N" codingScheme="A01"/>
+  <ContractIdentification v="ALME20160601M05550-22XGSA---------N"/>
+  <ContractType v="A03"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="22"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="22"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133425"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <RightsHolder v="22XGSA---------N" codingScheme="A01"/>
+  <ContractIdentification v="MEAL20160101Y01977-22XGSA---------N"/>
+  <ContractType v="A04"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="40"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="40"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133433"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <RightsHolder v="27XALPIQ-ENERGYS" codingScheme="A01"/>
+  <ContractIdentification v="ALME20160601M05550-27XALPIQ-ENERGYS"/>
+  <ContractType v="A03"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="25"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133440"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <RightsHolder v="27XALPIQ-ENERGYS" codingScheme="A01"/>
+  <ContractIdentification v="MEAL20160101Y01977-27XALPIQ-ENERGYS"/>
+  <ContractType v="A04"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="25"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="25"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133579"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <InArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <RightsHolder v="27XALPIQ-ENERGYS" codingScheme="A01"/>
+  <ContractIdentification v="ALME20160101Y01976-27XALPIQ-ENERGYS"/>
+  <ContractType v="A04"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="30"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="30"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133427"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <RightsHolder v="11XDANSKECOM---P" codingScheme="A01"/>
+  <ContractIdentification v="ALME20160601M05550-11XDANSKECOM---P"/>
+  <ContractType v="A03"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="240"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="240"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133577"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <InArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <RightsHolder v="11XDANSKECOM---P" codingScheme="A01"/>
+  <ContractIdentification v="MEAL20160601M05551-11XDANSKECOM---P"/>
+  <ContractType v="A03"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="120"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="120"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133426"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <InArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <RightsHolder v="11XIGET--------D" codingScheme="A01"/>
+  <ContractIdentification v="ALME20160601M05550-11XIGET--------D"/>
+  <ContractType v="A03"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="690"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="690"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+ <RightsTimeSeries>
+  <TimeSeriesIdentification v="133581"/>
+  <BusinessType v="A33"/>
+  <OutArea v="10YCS-CG-TSO---S" codingScheme="A01"/>
+  <InArea v="10YAL-KESH-----5" codingScheme="A01"/>
+  <RightsHolder v="11XIGET--------D" codingScheme="A01"/>
+  <ContractIdentification v="MEAL20160601M05551-11XIGET--------D"/>
+  <ContractType v="A03"/>
+  <MeasureUnitQuantity v="MAW"/>
+  <Period>
+   <TimeInterval v="2016-05-31T22:00Z/2016-06-01T22:00Z"/>
+   <Resolution v="PT60M"/>
+   <Interval>
+    <Pos v="1"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="2"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="3"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="4"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="5"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="6"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="7"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="8"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="9"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="10"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="11"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="12"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="13"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="14"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="15"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="16"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="17"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="18"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="19"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="20"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="21"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="22"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="23"/>
+    <Qty v="360"/>
+   </Interval>
+   <Interval>
+    <Pos v="24"/>
+    <Qty v="360"/>
+   </Interval>
+  </Period>
+ </RightsTimeSeries>
+</RightsDocument>
